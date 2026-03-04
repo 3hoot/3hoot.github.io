@@ -1,2 +1,5 @@
 # Ignore the .vscode directory, which contains user-specific settings and should not be shared across different environments.
 .vscode
+
+# Do not upload private files 
+priv

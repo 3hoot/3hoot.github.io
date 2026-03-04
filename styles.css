@@ -80,7 +80,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 40px;
+    /* margin-bottom: 40px; */
 }
 
 header .name p {
@@ -90,8 +90,8 @@ header .name p {
 }
 
 .profile_img {
-    width: 150px;
-    height: 150px;
+    width: 220px;
+    height: 300px;
     border-radius: 10%;
     object-fit: cover;
     border: 1px solid #ddd;
